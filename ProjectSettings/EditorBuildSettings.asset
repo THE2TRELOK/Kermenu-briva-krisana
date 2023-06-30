@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 535acbb157988554caeac9db9e60d910
+  - enabled: 1
+    path: Assets/Scenes/TeorijaScene.unity
+    guid: f714d1742d0e143478b687164d7d3185
+  - enabled: 0
+    path: Assets/Scenes/Teorija2.unity
+    guid: a292e482744393b42a9f83431bd3096e
+  - enabled: 1
+    path: Assets/Scenes/Teorija2.unity
+    guid: 4b0e7753aa9598446864969ced71fece
+  - enabled: 1
+    path: Assets/Scenes/Teorija3.unity
+    guid: e0446540e8c66de47acfff95f9c6edf3
+  - enabled: 1
+    path: Assets/Scenes/Teorija4.unity
+    guid: 288c6ef87f6a24e43965344056fe3acb
+  - enabled: 1
+    path: Assets/Scenes/Teorija5.unity
+    guid: 986c40cc11691744ea0a892b0e2c975c
+  - enabled: 1
+    path: Assets/Scenes/Teorija6.unity
+    guid: 53833fdc7c57c1442aabcd9d90c8b30c
+  - enabled: 1
+    path: Assets/Scenes/Simulacija.unity
+    guid: 44c87b39df1c13d4183406eecec6f72c
+  m_configObjects: {}
